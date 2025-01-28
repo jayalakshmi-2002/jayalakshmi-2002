@@ -7,8 +7,8 @@
   - **E-commerce Platform**: A simple and functional shopping website.  
   - **Project Management Dashboard**: A tool to track and manage projects.  
 - 📫 How to reach me: jayalakshmi1407a@gmail.com
-https://drive.google.com/file/d/1QsyjPo4Bg75xgaZ-p-uBMgYMq1OiZLSb/view?usp=drivesdk
-
+- drive:https://drive.google.com/file/d/1QsyjPo4Bg75xgaZ-p-uBMgYMq1OiZLSb/view?usp=drivesdk
+-LinkedIn:https://www.linkedin.com/in/jayalakshmi-a-2076902a4
 
 <!---
 jayalakshmi-2002/jayalakshmi-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
